@@ -71,7 +71,7 @@
  <a href="https://www.instagram.com/sagyndyk__n" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
 </a>
-<a href="mailto:sagyndyk006@gmail.com">
+<a href="mailto:nsagyndyk006@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
 </a>
 <a href="https://www.linkedin.com/in/nurmuhammed-sagyndyk-040445336" target="_blank">
