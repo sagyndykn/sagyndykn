@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Nurmuhammed and I'm a Backend Developer, from Almaty(KAZ)</p>
+<p align="left">My name is Nurmuhammed and I'm a Backend Developer, from Almaty</p>
 
 ###
 
